@@ -21,5 +21,7 @@ async function loadMarkdown() {
 
 // Run the function after DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-  loadMarkdown();
+  loadMarkdown().catch((error) => {
+    console.error('Unhandled error in loadMarkdown:', error);
+  });
 });
