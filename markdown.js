@@ -15,6 +15,7 @@ async function loadMarkdown() {
   // Run the function after DOM is loaded
   document.addEventListener('DOMContentLoaded', () => {
     loadMarkdown().catch((error) =>
+      console.log('Markdown content loaded!');  
       console.error('Error loading Markdown content:', error)
     );
   });
