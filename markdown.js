@@ -17,3 +17,4 @@ async function loadMarkdown() {
       console.error('Error loading Markdown content:', error)
     );
   });
+console.log('Hello, Markdown!');
