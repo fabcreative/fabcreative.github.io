@@ -10,6 +10,9 @@ async function loadMarkdown() {
     // Render the HTML inside the #markdown-content div
     document.getElementById('markdown-content').innerHTML = htmlContent;
   }
+
+    // Log success message
+    console.log('Hello, Markdown!');
   
   // Run the function after DOM is loaded
   document.addEventListener('DOMContentLoaded', () => {
