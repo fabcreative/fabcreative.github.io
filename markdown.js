@@ -9,6 +9,7 @@ async function loadMarkdown() {
   
     // Render the HTML inside the #markdown-content div
     document.getElementById('markdown-content').innerHTML = htmlContent;
+    console.log('Hello, Markdown!');
   }
   
   // Run the function after DOM is loaded
@@ -17,4 +18,3 @@ async function loadMarkdown() {
       console.error('Error loading Markdown content:', error)
     );
   });
-console.log('Hello, Markdown!');
