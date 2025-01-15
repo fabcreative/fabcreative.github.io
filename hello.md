@@ -1,4 +1,4 @@
-# Hello, Markdown!
+# Hello world!
 
 Welcome to the **Markdown Renderer** with custom styles.
 
@@ -8,4 +8,4 @@ Welcome to the **Markdown Renderer** with custom styles.
 
 ```javascript
 // Code block example
-console.log('Hello, Markdown!');
+console.log('Hello world!');
