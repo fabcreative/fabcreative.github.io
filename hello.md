@@ -1,6 +1,13 @@
-
-
-# console.log('Hello world!'); <br><br>
+    
+                             _    _                               _  _               
+                            | |  (_)                             | |(_)              
+      ___  _ __  ___   __ _ | |_  _ __   __ ___    ___  ___    __| | _  _ __    __ _ 
+     / __|| '__|/ _ \ / _` || __|| |\ \ / // _ \  / __|/ _ \  / _` || || '_ \  / _` |
+    | (__ | |  |  __/| (_| || |_ | | \ V /|  __/ | (__| (_) || (_| || || | | || (_| |
+     \___||_|   \___| \__,_| \__||_|  \_/  \___|  \___|\___/  \__,_||_||_| |_| \__, |
+                                                                                __/ |
+                                                                               |___/ 
+## console.log('Hello world!'); <br>
 
 Welcome to my sandbox where I break things for fun and occasionally make something cool. This is where raw code meets creativity — a space for wild experiments, generative art, visual algorithms, and other hacky goodness. Expect scribbles in p5.js, WebGL glitches, shader doodles, and ideas that sometimes work...  <br><br>
 
