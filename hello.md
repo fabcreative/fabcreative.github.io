@@ -6,6 +6,6 @@ Welcome to my sandbox where I break things for fun and occasionally make somethi
 
 
 Check out my P5 sketches 🚀
-- [Perlin Noise](perlin-noise.html)
+- [Perlin Noise](./sketches/perlin-noise.html)
 - [Hydra Painter](hydra-painter.html)
 
