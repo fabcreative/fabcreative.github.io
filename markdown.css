@@ -29,14 +29,15 @@ body {
   
 /* Link styles */
 a {
-  color: #78ad3e; /* Link color */
+  color:#78ad3e; /* Link color */
   text-decoration: none; /* No underline by default */
   transition: color 0.3s ease; /* Smooth hover transition */
 }
-
-a:hover {
-  color: #638d36; /* Change color on hover */
+a:hover{
+  color:#db4662; /* Link color */
+  background-color:#78ad3e;
   text-decoration: none; /* No underline by default */
+  transition: color 0.3s ease; /* Smooth hover transition */
 }
   
   /* Lists */
