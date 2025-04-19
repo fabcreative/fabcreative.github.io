@@ -9,7 +9,7 @@
                                                                                |___/ 
 ### console.log('Hello world!'); <br>
 
-Welcome to my sandbox where I break things for fun and occasionally make something cool. This is where code meets creativity — a space for wild experiments, generative art, visual algorithms, and other hacky goodness.  <br><br>
+Welcome to my sandbox where I break things for fun and occasionally make something cool. A space for experiments, generative art, visual algorithms, and other hacky goodness.  <br><br>
 
 Check out my sketches 🚀 <br><br>
 
