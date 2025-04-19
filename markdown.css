@@ -29,6 +29,7 @@ body {
   
 /* Link styles */
 a {
+  font-weight: bold;
   color:#78ad3e; /* Link color */
   text-decoration: none; /* No underline by default */
   transition: color 0.3s ease; /* Smooth hover transition */
@@ -38,6 +39,14 @@ a:hover{
   background-color:#78ad3e;
   text-decoration: none; /* No underline by default */
   transition: color 0.3s ease; /* Smooth hover transition */
+}
+
+/* Back button */
+.button-back {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1000;
 }
   
   /* Lists */
