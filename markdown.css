@@ -29,6 +29,7 @@ body {
   
 /* Link styles */
 a {
+  padding: 0px 4px 0px 4px;
   font-weight: bold;
   color:#78ad3e; /* Link color */
   text-decoration: none; /* No underline by default */
@@ -43,6 +44,7 @@ a:hover{
 
 /* Back button */
 .button-back {
+  padding: 0px 4px 0px 4px;
   position: fixed;
   top: 20px;
   left: 20px;
