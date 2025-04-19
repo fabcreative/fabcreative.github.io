@@ -5,7 +5,7 @@ let walker;
 function setup() {
   createCanvas(windowWidth, windowHeight); // creating canvas of the size of the window
   walker = new Walker(); // creating an instance/object of class Walker
-  background(25);
+  background('#1a1b26');
 
   // Draw text (two lines)
   fill(255);
