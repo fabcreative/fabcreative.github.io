@@ -44,6 +44,9 @@ a:hover{
 
 /* Back button */
 .button-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em; /* adjust spacing between icon and text */
   padding: 0px 4px 0px 4px;
   position: fixed;
   top: 20px;
