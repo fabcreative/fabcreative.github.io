@@ -36,7 +36,7 @@ a {
   transition: color 0.3s ease; /* Smooth hover transition */
 }
 a:hover{
-  color:#db4662; /* Link color */
+  color:#1a1b26; /* Link color */
   background-color:#78ad3e;
   text-decoration: none; /* No underline by default */
   transition: color 0.3s ease; /* Smooth hover transition */
