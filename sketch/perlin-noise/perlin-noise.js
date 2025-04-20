@@ -17,7 +17,7 @@ function setup() {
   text("The Nature of", width / 2, height / 2);
   
   // Second line
-  text("Coding", width / 2, height / 2 + 40);
+  text("Code", width / 2, height / 2 + 40);
 
 }
 

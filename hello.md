@@ -14,9 +14,9 @@ Welcome to my sandbox where I break things for fun and occasionally make somethi
 Check out my sketches 🚀 <br><br>
 
 - [Three.js](./sketch/three): My first experiment with three.js. Press and hold to orbit. <br><br>
-- [Perlin Noise](./sketch/perlin-noise/): A Perlin Noise Walker in P5.js <br><br>
-- [Hydra Painter](./sketch/hydra-painter): p5.js sketch that uses Hydra as a brush texture for drawing when the mouse is pressed.  <br><br>
-- [Easing Vectors](./sketch/easing-vectors): p5.js sketch that defines a Mover class that uses vectors for position, velocity, and acceleration to simulate spring-damped bouncing circles between two vertical limits.  <br><br>
+- [Perlin Noise Walker](./sketch/perlin-noise/): The nature of code chapter 0. Randomness. <br><br>
+- [Hydra Painter](./sketch/hydra-painter): Sketch in P5 that uses Hydra as a brush texture for drawing.  <br><br>
+- [Easing Vectors](./sketch/easing-vectors): The nature of code chapter 1. Vectors. A sketch in P5 that defines a Mover class that uses vectors for position, velocity, and acceleration to simulate spring-damped bouncing circles between two vertical limits.  <br><br>
 - [Hydra 01](./sketch/hydra-01): My first experiment with Hydra and P5. <br><br>
 
 
