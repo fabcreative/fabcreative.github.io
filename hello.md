@@ -13,6 +13,7 @@ Welcome to my sandbox where I break things for fun while trying to make somethin
 
 Check out my sketches:<br><br>
 
+- [Text to Points](./sketch/text-to-points/): Text to points in P5 <br><br>
 - [Three.js](./sketch/three): My first experiment with three.js. Press and hold to orbit. <br><br>
 - [Perlin Noise Walker](./sketch/perlin-noise/): The nature of code chapter 0. **Randomness**. <br><br>
 - [Hydra Painter](./sketch/hydra-painter): Sketch in P5 that uses Hydra as a brush texture for drawing.  <br><br>
