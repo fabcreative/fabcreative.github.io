@@ -1,19 +1,20 @@
-    
-                             _    _                               _  _               
-                            | |  (_)                             | |(_)              
-      ___  _ __  ___   __ _ | |_  _ __   __ ___    ___  ___    __| | _  _ __    __ _ 
-     / __|| '__|/ _ \ / _` || __|| |\ \ / // _ \  / __|/ _ \  / _` || || '_ \  / _` |
-    | (__ | |  |  __/| (_| || |_ | | \ V /|  __/ | (__| (_) || (_| || || | | || (_| |
-     \___||_|   \___| \__,_| \__||_|  \_/  \___|  \___|\___/  \__,_||_||_| |_| \__, |
-                                                                                __/ |
-                                                                               |___/ 
-#### console.log('Hello world!'); <br>
+
+  <pre style="text-align: center; font-size: 12px;">
+                           _        _     _             
+                          | |      | |   | |            
+  ___ ___  _ __  ___  ___ | | ___  | |__ | | ___   __ _ 
+ / __/ _ \| '_ \/ __|/ _ \| |/ _ \ | '_ \| |/ _ \ / _` |
+| (_| (_) | | | \__ \ (_) | |  __/_| |_) | | (_) | (_| |
+ \___\___/|_| |_|___/\___/|_|\___(_)_.__/|_|\___/ \__, |
+                                                   __/ |
+                                                  |___/ 
+  </pre>
 
 Welcome to my sandbox where I break things for fun while trying to make something cool. A space for experiments, generative art, visual algorithms, and other hacky goodness.  <br><br>
 
 Check out my sketches:<br><br>
 
-- [Text to Points](./sketch/text-to-points/): Text to points in P5 <br><br>
+- [Text to Points](./sketch/text-to-points/): Text to points in P5. <br><br>
 - [Three.js](./sketch/three): My first experiment with three.js. Press and hold to orbit. <br><br>
 - [Perlin Noise Walker](./sketch/perlin-noise/): The nature of code chapter 0. **Randomness**. <br><br>
 - [Hydra Painter](./sketch/hydra-painter): Sketch in P5 that uses Hydra as a brush texture for drawing.  <br><br>

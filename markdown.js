@@ -18,5 +18,6 @@ async function loadMarkdown() {
   document.addEventListener('DOMContentLoaded', () => {
     loadMarkdown().catch((error) =>
       console.error('Error loading Markdown content:', error)
+    
     );
   });

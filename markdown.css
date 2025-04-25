@@ -31,13 +31,13 @@ body {
 a {
   padding: 0px 4px 0px 4px;
   font-weight: bold;
-  color:#78ad3e; /* Link color */
+  color: #0f0; /* Link color */
   text-decoration: none; /* No underline by default */
   transition: color 0.3s ease; /* Smooth hover transition */
 }
 a:hover{
   color:#1a1b26; /* Link color */
-  background-color:#78ad3e;
+  background-color:#0f0;
   text-decoration: none; /* No underline by default */
   transition: color 0.3s ease; /* Smooth hover transition */
 }
@@ -79,7 +79,7 @@ a:hover{
   
   pre {
     background: #1a1b26;
-    color: #55bfd1;
+    color: #0f0;
     padding: 1em;
     border-radius: 5px;
     overflow-x: auto;
