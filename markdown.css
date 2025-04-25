@@ -1,16 +1,16 @@
 /* Typography */
 body {
-    font-family: 'JetBrains Mono', Monaco, 'Courier New', Courier, monospace;
+    font-family: 'JetBrains Mono', monospace;
     background-color: #1a1b26;
     color: #e7ecf8;
     line-height: 1.6;
-    margin: 0;
-    padding: 2em;
+    margin: 0px 20px;
+    /* padding: 20px; */
     text-align: left;
   }
   
   h1, h2, h3, a {
-    font-family: 'JetBrains Mono', Monaco, 'Courier New', Courier, monospace;
+    font-family: 'JetBrains Mono', monospace;
     color: #db4662;
     margin-bottom: 0.5em;
   }
@@ -70,7 +70,7 @@ a:hover{
   
   /* Inline Code and Preformatted Blocks */
   code {
-    font-family: 'JetBrains Mono', Monaco, 'Courier New', Courier, monospace;
+    font-family: 'JetBrains Mono', monospace;
     background: #1a1b26;
     color: #ab85f2;
     padding: 2px 4px;
@@ -80,7 +80,9 @@ a:hover{
   pre {
     background: #1a1b26;
     color: #0f0;
-    padding: 1em;
+    text-align: center;
+    font-size: 14px;
+    /* padding: 1em; */
     border-radius: 5px;
     overflow-x: auto;
   }
@@ -91,14 +93,9 @@ a:hover{
     margin: 0 auto;
   }
 
-  pre {
-    text-align: center;
-    font-size: 14px;
-  }
-
 @media screen and (max-width: 600px) {
   pre {
     text-align: left;
-    font-size: 8px;
+    font-size: 10px;
   }
 }
