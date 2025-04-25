@@ -1,6 +1,5 @@
 
   <pre>
-
                            _        _             
                           | |      | |            
   ___ ___  _ __  ___  ___ | | ___  | | ___   __ _ 
@@ -9,7 +8,6 @@
  \___\___/|_| |_|___/\___/|_|\___(_)_|\___/ \__, |
                                              __/ |
                                             |___/ 
-
   </pre>
 
 Welcome to my sandbox where I break things for fun while trying to make something cool. My canvas for experiments, generative art, visual algorithms, and other hacky goodness.  <br><br>
