@@ -90,3 +90,15 @@ a:hover{
     max-width: 800px;
     margin: 0 auto;
   }
+
+  pre {
+    text-align: center;
+    font-size: 12px;
+  }
+
+@media screen and (max-width: 600px) {
+  pre {
+    text-align: left;
+    font-size: 8px;
+  }
+}

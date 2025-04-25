@@ -1,5 +1,5 @@
 
-  <pre style="text-align: center; font-size: 12px;">
+  <pre>
                            _        _     _             
                           | |      | |   | |            
   ___ ___  _ __  ___  ___ | | ___  | |__ | | ___   __ _ 
