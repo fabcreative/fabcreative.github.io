@@ -6,7 +6,7 @@ body {
     background-color: #000000;
     color: #e7ecf8;
     line-height: 1.6;
-    padding: 20px;
+    padding: 0 20px 20px 20px;
     text-align: left;
     display: flex;
     flex-direction: column;
