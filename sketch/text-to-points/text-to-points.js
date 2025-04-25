@@ -20,7 +20,7 @@ function setup() {
 }
 
 function draw() {
-  background(color("#1a1b26"));
+  background(color("black"));
   translate(width / 2, height / 2);
 
   // Draw all points

@@ -79,7 +79,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
 
   // Initialize colors.
-  bgColor = color("#1a1b26");
+  bgColor = color("black");
   circleColor = color(255, 255, 255);
 
   let numMovers = 10;

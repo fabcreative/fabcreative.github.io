@@ -1,7 +1,8 @@
 /* Typography */
 body {
     font-family: 'JetBrains Mono', monospace;
-    background-color: #1a1b26;
+    /* background-color: #1a1b26; */
+    background-color: #000000;
     color: #e7ecf8;
     line-height: 1.6;
     margin: 0px 20px;
@@ -78,7 +79,6 @@ a:hover{
   }
   
   pre {
-    background: #1a1b26;
     color: #0f0;
     text-align: center;
     font-size: 14px;
