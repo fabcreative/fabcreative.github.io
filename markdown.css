@@ -97,6 +97,14 @@ a:hover{
     flex: 1;
   }
 
+  .threejs-page {
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    min-height: 100vh;
+    width: 100vw;
+}
+
 @media screen and (max-width: 600px) {
   pre {
     text-align: left;
