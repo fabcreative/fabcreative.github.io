@@ -46,6 +46,13 @@ a:hover{
   transition: color 0.3s ease; /* Smooth hover transition */
 }
 
+a:active{
+  color:#1a1b26; /* Link color */
+  background-color:#0f0;
+  text-decoration: none; /* No underline by default */
+}
+
+
 /* Back button */
 .button-back {
   display: inline-flex;

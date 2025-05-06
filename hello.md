@@ -10,7 +10,7 @@
                                             |___/ 
   </pre>
 
-Welcome to my sandbox where I break things for fun while trying to make something cool. My canvas for experiments, generative art, visual algorithms, and other hacky goodness.  <br><br>
+Welcome to my sandbox where I break things for fun while trying to make something cool. My canvas for experiments with creative coding and other hacky goodness.  <br><br>
 
 Check out my sketches:<br><br>
 
